@@ -1,2 +1,4 @@
 # BlackJack
-Cool Codepen im hoping to refactor
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Clowerweb/pen/FDcxe](https://codepen.io/Clowerweb/pen/FDcxe).
+
